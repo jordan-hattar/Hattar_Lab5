@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="channel_name">Channel N</string>
+    <string name="channel_description">Notification Channel N</string>
+
+    <string-array name="radio_stations">
+        <item>UConn Radio</item>
+        <item>Hot 97.1</item>
+        <item> WDAQ 98.3</item>
+        <item>Star 99.9</item>
+
+    </string-array>
+</resources>
